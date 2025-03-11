@@ -2,15 +2,9 @@
 
 Author: Bisma yb
 
-company: CODTECH IT Solutions
-
-inturn ID: CT6WEXQ
 
 Domain:Data Science
 
-Batch duration: december 30th 2024 to February 15th 2025
-
-Mentor name:Neela Santhosh
 
 # OPTIMIZATION-MODEL
 
